@@ -1,4 +1,4 @@
-[博客：https://democome.com/](https://democome.com/article/use-contentprovider-implements-binder)
+[博客：https://jiudian.link/](https://jiudian.link/2018/09/14/%E5%88%A9%E7%94%A8ContentProvider%E5%AE%9E%E7%8E%B0%E5%90%8C%E6%AD%A5Binder/)
 
 ##### 在Android中跨进程通信的方式有好多种，比如
 
